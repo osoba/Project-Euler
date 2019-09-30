@@ -1,4 +1,4 @@
-# notice that 10**i always has more than i digits so we only need brute force numbers 2..9 to the i-th power
+# notice that 10**i always has more than i digits so we only need to brute force numbers 2..9 to the i-th power
 
 LIMIT = 22 # limit experimentally determined
 count = 0
